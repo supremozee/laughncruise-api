@@ -1,0 +1,27 @@
+{
+  "name": "laughncruise-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/supremozee/laughncruise-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supremozee/laughncruise-api/issues"
+  },
+  "homepage": "https://github.com/supremozee/laughncruise-api#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.1",
+    "body-parser": "^1.19.0",
+    "knex": "^0.95.11",
+    "nodemon": "^2.0.13",
+    "postgre": "^0.1.8"
+  }
+}
